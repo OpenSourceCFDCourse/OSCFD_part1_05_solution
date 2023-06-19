@@ -13,4 +13,5 @@ runApplication $(getApplication)
 
 runApplication foamLog log.$(getApplication)
 
+python3 plotResiduals.py
 #------------------------------------------------------------------------------

@@ -38,7 +38,7 @@ boundaryField
         value           uniform 0;
     }
 
-    frontAndBack
+    "front|back"
     {
         type            empty;
     }
